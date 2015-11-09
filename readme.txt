@@ -3,6 +3,8 @@ Autor: Holger Trampe
 www.holgertrampe.de
 Lizenz: CC 2.0 (Autor benennen! Verändern, Entwickeln aber NICHT VERKAUFEN oder in Teilen für kostenpflichtige Sftware einsetzen! GradeLi ist und bleibt OpenSource!)
 
+Willkommen bei GradeLi - dem Klassenbuch für Linux!
+
 Installation
 
 1. GradeLi-Ordner in ein Cloudfähiges Verzeichnis verschieben (wenn Synchrosiation erwünscht ist, ansonsten in ein Verzeichnis mit Schreibrechten (z.B. home/IHRBENUTZERNAME/)
