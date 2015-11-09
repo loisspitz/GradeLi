@@ -24,12 +24,13 @@ Erstellen Sie anschließend einfach eine neue Klasse. Geben Sie einen Aussagekr�
 
 Nachdem Sie eine Klasse erstellt haben können Sie manuel oder per Import einer CSV-Datei Schüler importieren.
 CSV-Format:
-Vorname, Nachname, E-Mailadresse,
+Vorname, Nachname, E-Mailadresse
 
 Wird keine E-Mailadresse gespeichert den Teil leer lassen. Beispiel:
 
-Holger,Trampe,mail@holgertrampe.de,
-Johannes,Marks,,
+Holger,Trampe,mail@holgertrampe.de
+Johannes,Marks,
+Sabrina,Schalda,sschalda@mailme.com
 
 Einheiten
 
@@ -43,7 +44,7 @@ Schulbus	Schüler war auf einer internen Schuleveranstaltung o.ä.
 
 Noten
 
-In GradeLi können Sie umfangreiche Notensystem erstellen. Das System gliedert sich in Ober- und Unterkategorien und letztendlich eine Note.
+In GradeLi können Sie umfangreiche Notensystem erstellen. Das System gliedert sich in Ober- und Unterkategorien.
 Beispiel:
 
 Oberkategorie Schriftlich (Gewichtung 70) und Mündlich (30). Für diese Oberkategorien können nun Unterkategorien angelegt werden (z.B. 

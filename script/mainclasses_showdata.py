@@ -145,7 +145,7 @@ class ShowData():
 					space2 = Gtk.Label("   ")
 					space3 = Gtk.Label("   ")
 
-					#If snd row --> make it grey :)
+					#If 2nd row --> make it grey :)
 					if counter % 2 != 0:
 						templabel_numb.modify_bg(0, Gdk.Color(52000, 52000, 52000))
 						templabel_postname.modify_bg(0, Gdk.Color(52000, 52000, 52000))
