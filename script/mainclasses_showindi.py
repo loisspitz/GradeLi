@@ -212,7 +212,6 @@ class ShowIndi():
 							note_calc = note_calc + data_stunote * notes[1]
 						except:
 							rowcounter = rowcounter + 1
-							break
 					
 					#Saving all Downcategorie-Notes ID WEIGHT NOTE
 					if weight_note > 0:
